@@ -10,4 +10,5 @@
         $option .= '<option value='.$my['id'].'>'.$my['states_name'].'</option>';
     }
     echo $option; 
+    //this is commente
 ?>
